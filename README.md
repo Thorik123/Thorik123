@@ -4,7 +4,7 @@
 ![JS](https://img.shields.io/badge/Javascript-Intermediate-orange)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-Intermediate-toska)
-![IoT](https://img.shields.io/badge/Iot-Intermediate-purple)
+![IoT](https://img.shields.io/badge/IoT-Intermediate-purple)
 ![ESP8266](https://img.shields.io/badge/ESP8266-Intermediate-green)
 ![ESP32](https://img.shields.io/badge/ESP32-Intermediate-red)
 
