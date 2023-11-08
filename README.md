@@ -16,9 +16,10 @@ Hanya manusia biasa yang kebetulan berkuliah di [UNISNU Jepara](https://unisnu.a
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/Thorik123][github]
-- Facebook: web.facebook.com/thoriqul.birry
+- Facebook: www.facebook.com/thoriqul.birry
 - Instagram: www.instagram.com/thorik_tk
 - E-mail: tronikthorik07@gmail.com
 
+<!--
 ![Thorik123's github stats](https://github-readme-stats.vercel.app/api?username=Thorik123&show_icons=true&hide_border=true)
+-->
